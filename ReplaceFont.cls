@@ -15,11 +15,18 @@ Sub ReplaceFont()
     Dim BodyText As String
     Dim HeadingOne As String
     Dim HeadingTwo As String
+    Dim SubtitleSize As Integer
+    Dim TitleSize As Integer
+    
 
     'Font name goes here...'
     BodyText = "Segoe UI Semilight"
     HeadingOne = "Segoe UI Semibold"
     HeadingTwo = "Segoe UI Semibold"
+    
+    'Font sizea goes here...'
+    SubtitleSize = 18
+    TitleSize = 18
 
     Set objDoc = ActiveDocument
 
@@ -35,10 +42,10 @@ Sub ReplaceFont()
         For Each objSingleWord1 In .Words 'For Headings'
             If objSingleWord1.Font.Name = HeadingOne Then
                 objSingleWord1.Font.Name = "Open Sans ExtraBold"
-                If objSingleWord1.Font.Size < 18 Then 'For Subtitles'
+                If objSingleWord1.Font.Size < SubtitleSize Then 'For Subtitles'
                     objSingleWord1.Font.Size = 13
                     objSingleWord1.Font.TextColor.RGB = RGB(240, 139, 29) 'Orange font'
-                ElseIf objSingleWord1.Font.Size >= 18 Then 'For titles'
+                ElseIf objSingleWord1.Font.Size >= TitleSize Then 'For titles'
                     objSingleWord1.Font.Size = 21
                     objSingleWord1.Font.Bold = True
                     objSingleWord1.Font.TextColor.RGB = RGB(65, 86, 104)
