@@ -24,7 +24,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -39,6 +39,7 @@
       <workItem from="1605821823408" duration="36000" />
       <workItem from="1605821888092" duration="13000" />
       <workItem from="1605821923073" duration="46000" />
+      <workItem from="1605821992917" duration="246000" />
     </task>
     <servers />
   </component>
@@ -50,9 +51,9 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1206" y="364" key="#Notifications/0.0.1536.824/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1605821938982" />
-    <state x="-1459" y="185" key="SettingsEditor" timestamp="1605821968398">
+    <state x="-1459" y="185" key="SettingsEditor" timestamp="1605822086900">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1459" y="185" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1605821968398" />
+    <state x="-1459" y="185" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1605822086900" />
   </component>
 </project>

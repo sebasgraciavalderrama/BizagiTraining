@@ -24,7 +24,7 @@ Sub ReplaceFont()
     HeadingOne = "Segoe UI Semibold"
     HeadingTwo = "Segoe UI Semibold"
     
-    'Font sizea goes here...'
+    'Font sizes goes here...'
     SubtitleSize = 18
     TitleSize = 18
 
