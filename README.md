@@ -14,11 +14,11 @@ This current version of the code on the test phase. It is **not** a final releas
 6. Check the document and verify that changes have been successfully applied to the document.
 7. Save and upload.
 
-###Troubleshooting
+### Troubleshooting
 As it is now, we have not encountered any issues with the code, however things might go sideways. If that is the case, please let us know, so we can fix the issue.
 
-###Considerations
-This code has a complexity of O(n) which means that the code changes letter by letter and then moves on to the next paragraph. This is not an issue for our documents but for big documents you might notice a little lag. You can even see the letters getting swapped.
+### Considerations
+This code has a complexity of **O(n)** which means that the code changes letter by letter and then moves on to the next paragraph. This is not an issue for our documents but for big documents you might notice a little lag. You can even see the letters getting swapped.
 
 
 
