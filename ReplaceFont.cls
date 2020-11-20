@@ -19,12 +19,12 @@ Sub ReplaceFont()
     Dim TitleSize As Integer
     
 
-    'Font name goes here...'
+    'Font names goes here, change this as required'
     BodyText = "Segoe UI Semilight"
     HeadingOne = "Segoe UI Semibold"
     HeadingTwo = "Segoe UI Semibold"
     
-    'Font sizes goes here...'
+    'Font sizes goes here, change this as required'
     SubtitleSize = 18
     TitleSize = 18
 

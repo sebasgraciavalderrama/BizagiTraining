@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fd3e7fd-c4f8-494a-807b-71a4c73e573e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ReplaceFont.cls" beforeDir="false" afterPath="$PROJECT_DIR$/ReplaceFont.cls" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,12 +41,16 @@
       <workItem from="1605821823408" duration="36000" />
       <workItem from="1605821888092" duration="13000" />
       <workItem from="1605821923073" duration="46000" />
-      <workItem from="1605821992917" duration="246000" />
+      <workItem from="1605821992917" duration="850000" />
+      <workItem from="1605876994161" duration="1231000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cls" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1206" y="364" key="#Notifications" timestamp="1605821938982">
@@ -55,5 +61,9 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1459" y="185" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1605822086900" />
+    <state x="-1304" y="250" key="run.anything.popup" timestamp="1605877402444">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1304" y="250" key="run.anything.popup/0.0.1536.824/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1605877402444" />
   </component>
 </project>
