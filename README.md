@@ -1,4 +1,4 @@
-# Replace fonts of Word documents - Bizagi Training
+# Replace fonts of Word documents - Bizagi Training :robot:
 
 This Visual Basic code swaps the body text, Heading One and Heading Two text fonts to the latest style and font changes provided by Bizagi.
 This current version of the code on the test phase. It is **not** a final release.
@@ -7,7 +7,7 @@ Also, if you would like to know which fonts and font sizes are being used in you
 
 
 
-### Step-by-step :mag_right:
+### Step-by-step :clipboard:
 ***
 1. Go to the folder structure of your assigned workshop/course.
 2. Identify client type documents (Enunciados, Agendas, tareas...).
@@ -27,11 +27,11 @@ Also, if you would like to know which fonts and font sizes are being used in you
 11. Repeate for all the other documents for both English and Spanish.
 
 
-### Troubleshooting
+### Troubleshooting :wrench:
 ***
 As it is now, we have not encountered any issues with the code, however things might go sideways. If that is the case, please let us know, so we can fix the issue.
 
-### Considerations
+### Considerations :heavy_exclamation_mark:
 ***
 This code has a complexity of **O(n)** which means that the code changes letter by letter and then moves on to the next paragraph. This is not an issue for our documents but for big documents you might notice a little lag. You can even see the letters getting swapped.
 
