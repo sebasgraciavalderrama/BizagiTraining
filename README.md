@@ -23,8 +23,8 @@ Also, if you would like to know which fonts and font sizes are being used in you
 11. Copy and paste into the template.
 12. Eliminate blank spaces, unused tags, etc.
 13. Update the `Table of contents` at the beginning of the document and make sure it makes sense.
-10. Save and upload.
-11. Repeate for all the other documents for both English and Spanish.
+14. Save and upload.
+15. Repeat for all the other documents for both English and Spanish.
 
 
 ### Troubleshooting :wrench:
