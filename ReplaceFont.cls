@@ -33,7 +33,7 @@ Sub ReplaceFont()
         For Each objSingleWord1 In .Words 'For Headings'
             If objSingleWord1.Font.Name = HeadingOne Then
                 objSingleWord1.Font.Name = "Open Sans ExtraBold"
-                If objSingleWord1.Font.Size < SubtitleSize Then 'For Subtitles'
+                If objSingleWord1.Font.Size = SubtitleSize Then 'For Subtitles'
                     objSingleWord1.Font.Size = 13
                     objSingleWord1.Font.TextColor.RGB = RGB(240, 139, 29) 'Orange font'
                 ElseIf objSingleWord1.Font.Size >= TitleSize Then 'For titles'
