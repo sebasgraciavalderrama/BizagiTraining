@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fd3e7fd-c4f8-494a-807b-71a4c73e573e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReplaceFont.cls" beforeDir="false" afterPath="$PROJECT_DIR$/ReplaceFont.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetFonts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
       <workItem from="1605821923073" duration="46000" />
       <workItem from="1605821992917" duration="850000" />
       <workItem from="1605876994161" duration="1304000" />
-      <workItem from="1606137752220" duration="25000" />
+      <workItem from="1606137752220" duration="677000" />
     </task>
     <servers />
   </component>
@@ -57,6 +56,10 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1206" y="364" key="#Notifications/0.0.1536.824/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1605821938982" />
+    <state x="-1199" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606140976094">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1199" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1606140976094" />
     <state x="-1459" y="185" key="SettingsEditor" timestamp="1605822086900">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
