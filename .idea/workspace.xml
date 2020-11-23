@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fd3e7fd-c4f8-494a-807b-71a4c73e573e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReplaceFont.cls" beforeDir="false" afterPath="$PROJECT_DIR$/ReplaceFont.cls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GetFonts.cls" beforeDir="false" afterPath="$PROJECT_DIR$/GetFonts.cls" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
       <workItem from="1605821992917" duration="850000" />
       <workItem from="1605876994161" duration="1304000" />
       <workItem from="1606137752220" duration="1378000" />
-      <workItem from="1606154032532" duration="67000" />
+      <workItem from="1606154032532" duration="671000" />
     </task>
     <servers />
   </component>
