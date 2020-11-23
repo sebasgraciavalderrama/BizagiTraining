@@ -33,11 +33,11 @@ As it is now, we have not encountered any issues with the code, however things m
 
 ### Considerations :heavy_exclamation_mark:
 ***
-This code has a complexity of **O(n)** which means that the code changes letter by letter and then moves on to the next paragraph. This is not an issue for our documents but for big documents you might notice a little lag. You can even see the letters getting swapped.
++ This code has a complexity of **O(n)** which means that the code changes letter by letter and then moves on to the next paragraph. This is not an issue for our documents but for big documents you might notice a little lag. You can even see the letters getting swapped.
 
-Make sure to run this set of Macros with only one instance (maximum 2) of Word.
++ Make sure to run this set of Macros with only one instance (maximum 2) of Word opened.
 
-When you want to save the new document, make sure to **NOT** save it as a Macro file, save it like a regular `.docx` file.
++ When you want to save the new document, make sure to **NOT** save it as a Macro file, save it like a regular `.docx` file.
 
 
 
