@@ -29,7 +29,7 @@ Also, if you would like to know which fonts and font sizes are being used in you
 ***
 + This code has a complexity of **O(n)** which means that the code changes letter by letter and then moves on to the next paragraph. This is not an issue for our documents but for big documents you might notice a little lag. You can even see the letters getting swapped.
 
-+ Elements such as footers or headers are not effected by this VBA Macro, you can change them manually if you feel to.
++ Elements such as footers or headers are not effected by this VBA Macro, you can change them manually if you feel the need to.
 
 + Make sure to run this set of Macros with only one instance (maximum 2) of Word opened.
 
