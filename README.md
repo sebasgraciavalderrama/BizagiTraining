@@ -17,11 +17,11 @@ Also, if you would like to know which fonts and font sizes are being used in you
     - You can check them manually, however can use the code in [GetFonts.cls](https://github.com/sebasgraciavalderrama/BizagiTraining/blob/main/GetFonts.cls) to get the full list of font and font size.
 7. You ought to make sure all the fonts and font sizes have been properly identified in the variable declaration, then you can [Run](https://postimg.cc/F1Rs3mTp) the code.
 8. Check the result of the execution of the macro, make changes manually if needed.
-9. Now, open the file `Bizagi Word Template (Branded Front Cover).docx`. You can download the Word templates [here](https://bizagi.sharepoint.com/Pages/Forms/AllItems.aspx?siteid=%7BCFD9BA7B%2DE65E%2D4228%2DA709%2DFEB91696C9CB%7D&webid=%7BC6B5A423%2D1643%2D414B%2D821D%2DE404DF90DA55%7D&uniqueid=%7B9D57DEE8%2D61EF%2D46E6%2DBAE7%2DA958853386FC%7D&viewid=55c00160%2D9775%2D4a27%2D9615%2Dee13acb4086e&id=%2FPages%2FSales%20enablement%2FDocuments%2FBrand%20Templates%2FWord%20Templates) 
+9. Now, open the file `Bizagi Word Template (Branded Front Cover).docx`. You can download the Word templates [here](https://bizagi.sharepoint.com/Pages/Forms/AllItems.aspx?siteid=%7BCFD9BA7B%2DE65E%2D4228%2DA709%2DFEB91696C9CB%7D&webid=%7BC6B5A423%2D1643%2D414B%2D821D%2DE404DF90DA55%7D&uniqueid=%7B9D57DEE8%2D61EF%2D46E6%2DBAE7%2DA958853386FC%7D&viewid=55c00160%2D9775%2D4a27%2D9615%2Dee13acb4086e&id=%2FPages%2FSales%20enablement%2FDocuments%2FBrand%20Templates%2FWord%20Templates) :point_left: 
 10. Copy and paste into the template.
 11. Eliminate blank spaces, unused tags, etc.
 12. Update the `Table of contents` at the beginning of the document and make sure it makes sense.
-13. Save :floppy_disk: the file and add the version v11.2 and upload :cloud:.
+13. Save :floppy_disk: with the version `v11.2` on the name of the file and upload :cloud: to our repository.
 14. Repeat for all the other documents for both English and Spanish.
 
 
