@@ -5,8 +5,6 @@ This current version of the code on the test phase. It is **not** a final releas
 
 Also, if you would like to know which fonts and font sizes are being used in your Word document you can use the macro in [GetFonts.cls](https://github.com/sebasgraciavalderrama/BizagiTraining/blob/main/GetFonts.cls)
 
-
-
 ### Step-by-step :clipboard:
 ***
 1. Go to the folder structure of your assigned workshop/course.
@@ -25,7 +23,6 @@ Also, if you would like to know which fonts and font sizes are being used in you
 12. Update the `Table of contents` at the beginning of the document and make sure it makes sense.
 13. Save and upload.
 14. Repeat for all the other documents for both English and Spanish.
-
 
 ### Troubleshooting :wrench:
 ***
