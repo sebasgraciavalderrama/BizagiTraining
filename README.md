@@ -38,7 +38,7 @@ Also, if you would like to know which fonts and font sizes are being used in you
 
 ### Troubleshooting :wrench:
 ***
-ments have 3 types of Headings, such as Heading One, Heading Two and some other heading with a different font size, if this happens make sure the document looks good and makes sense.
+Some documents have 3 types of Headings, such as Heading One, Heading Two and some other heading with a different font size, if this happens make sure the document looks good and makes sense.
 
 
 
